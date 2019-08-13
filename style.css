@@ -1,0 +1,87 @@
+/* style */
+
+/* body {
+    background-image: url(background-image.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+/* div#para1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 320px;
+
+}
+
+div#div-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 180px;   
+}
+
+p {
+    color: white;
+    font-size: 1.5rem;
+} */
+
+/* .btn {
+    background-color:rgb(250, 131, 52);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-size: 1rem;
+    height: 50px;
+    width: 200px;
+
+}
+
+.btn:hover {
+    background-color:grey;
+    color: white;
+} */
+
+
+/* Latest style */
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    background-image: url(backgroundImage.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+}
+
+div#para1 {
+    padding-top: 50px;
+}
+
+div#div-button {
+    padding-top:120px;
+    padding-bottom: 200px;
+}
+div h1 {
+    font-size: 2rem
+}
+
+.btn {
+    border-radius: 30px;
+    background-color: rgb(219, 91, 17);
+    border-style: none;
+}
+
+.btn:hover {
+    background-color: rgb(90, 86, 86);
+}
+
+#mc_embed_signup_scroll {
+    display: flex;
+    justify-content: center;
+    
+}
